@@ -84,3 +84,16 @@ h2 {
   from, to { border-color: transparent }
   50% { border-color: rgb(58, 58, 58) }
 }
+
+.logos {
+  margin-top: 100px;
+  display:flex;
+  gap:10px;
+}
+
+.logos img {
+  max-width: 200px;
+  opacity:0.6;
+  height:auto;
+  padding: 100px;
+}
